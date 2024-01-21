@@ -6,3 +6,5 @@
 - 🧮 In this repository, you will find the problem statements, the test cases, and my code for each problem. 
 - 💬 I have also added some comments and explanations to help you understand my approach and reasoning.
 - 🙃 I hope you find them useful and interesting. Feel free to leave your feedback or suggestions. 
+
+Run ```tester109.py``` to test the code. 
