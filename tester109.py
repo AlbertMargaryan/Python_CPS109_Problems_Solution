@@ -14,7 +14,7 @@ import gzip
 import os.path
 import string
 from sys import version_info, exit
-import labs109
+import main as labs109
 from fractions import Fraction
 
 # During development, this dictionary contains the functions whose calls and
